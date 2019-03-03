@@ -1,0 +1,29 @@
+﻿  main.cpp
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(11): error C2061: syntax error: identifier 'Player'
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(24): error C2061: syntax error: identifier 'Player'
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(16): error C2065: 'p': undeclared identifier
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(16): error C2228: left of '.sprite' must have class/struct/union
+  c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(16): note: type is 'unknown-type'
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(16): error C2228: left of '.getPosition' must have class/struct/union
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(16): error C2228: left of '.y' must have class/struct/union
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(17): error C2065: 'p': undeclared identifier
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(17): error C2228: left of '.sprite' must have class/struct/union
+  c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(17): note: type is 'unknown-type'
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(17): error C2228: left of '.getPosition' must have class/struct/union
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(17): error C2228: left of '.x' must have class/struct/union
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(25): error C2065: 'p': undeclared identifier
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(25): error C2228: left of '.sprite' must have class/struct/union
+  c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(25): note: type is 'unknown-type'
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(25): error C2228: left of '.getPosition' must have class/struct/union
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(25): error C2228: left of '.x' must have class/struct/union
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(26): error C2065: 'p': undeclared identifier
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(26): error C2228: left of '.sprite' must have class/struct/union
+  c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(26): note: type is 'unknown-type'
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(26): error C2228: left of '.getPosition' must have class/struct/union
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\bullet.hpp(26): error C2228: left of '.y' must have class/struct/union
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\utils.h(28): error C2084: function 'double utils::tan(float)' already has a body
+  c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\utils.h(28): note: see previous definition of 'tan'
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\utils.h(29): error C2084: function 'double utils::sin(float)' already has a body
+  c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\utils.h(29): note: see previous definition of 'sin'
+c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\utils.h(30): error C2084: function 'double utils::cos(float)' already has a body
+  c:\users\zigzag\desktop\store\important_files\sfml\serozh\testgame0\testgame0\utils.h(30): note: see previous definition of 'cos'
